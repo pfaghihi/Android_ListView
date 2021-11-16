@@ -5,7 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
-
+// added
 public class MainActivity extends AppCompatActivity {
     // Array of strings...
     String[] mobileArray = {"Android","IPhone","WindowsMobile","Blackberry",
